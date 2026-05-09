@@ -106,6 +106,15 @@ The goal of this project is to combine creativity and frontend development skill
 
 <hr>
 
+## 🤝 Contributing
+Contributions, suggestions, and improvements are always welcome.  
+Feel free to fork the repository and submit a pull request.
+
+---
+
+## 📜 License
+- This project is open-source and free to use for learning and personal projects.
+
 <h3 align="center">
 ⭐ If you like this project, don't forget to star the repository!
 </h3>
